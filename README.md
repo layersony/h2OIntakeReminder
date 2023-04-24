@@ -1,6 +1,10 @@
 # H20 Reminder
 A Simple Python Script that reminds one to drink water after every 2 hours from 6am to 10pm or 11 pm
 
+### Prerequisites
+1. Twilio Account with a Phone Number
+2. Python
+
 ## How to use this
 1. Clone the repository and cd into repository
 2. Create a python virtual environment and install the requirements
